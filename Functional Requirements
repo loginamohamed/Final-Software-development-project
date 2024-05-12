@@ -1,0 +1,43 @@
+For the student:
+1- Registration
+1.1-The system must provide the student with the ability to create an account
+1.2 The system must ensure that the student enters the name, email, password, password confirmation, and photo to create an account
+
+2- Profile management
+2.1 The system must provide the student with the ability to make changes to the account, such as modifying his data (name, password, email, and photo).
+
+3. Search for courses
+3.1 The system must provide the student with the ability to search for the course he wants by writing the name of the course or displaying the available one on the page.
+
+4- Search for a teacher
+4.1 The system must provide the ability for the student to search for a suitable teacher for him, displaying the teacher’s data and the courses he has created.
+
+5 - Complaints and suggestions
+5.1 The system must provide a page to receive student suggestions and messages via a dedicated communication page
+
+6-Interactions
+6.1 The system must provide a way for the student to interact with the course he joined (saving the playlist, adding a comment, or giving a like).
+6.2 The system must allow the student the freedom to delete or modify the comments he wrote
+
+
+For the teacher:
+1- Registration
+1.1-The system must provide the teacher with the ability to create an account
+
+1.2 The system must ensure that the teacher enters the name, email, password, password confirmation, photo, and educational specialty to create an account
+
+2- Profile management
+2.1 The system must provide the teacher with the ability to make changes to the account, such as modifying its data (name, password, email, photo, and specialty).
+
+3. Add playlist
+3.1 The system must provide the teacher with the ability to add a new playlist by filling in information such as (condition, description, thumbnail, and playlist name).
+3.2 The system must provide the teacher with the ability to modify, delete, or update the playlist
+
+4- Add content
+4.1 The system must provide the teacher with the ability to add content, material, or video within the playlist by filling in some information such as (the status, the name of the video, the playlist it will fall under, and the description).
+4.2 The system must provide the teacher with the ability to delete, modify, or update the content
+
+5- Interactions
+5.1 The system must provide the possibility for the teacher to follow up on the interactions he receives, such as comments and likes.
+5.2 The system must provide the teacher with the ability to delete any inappropriate comment that has been written
+
